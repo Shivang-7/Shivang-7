@@ -1,44 +1,43 @@
-# HI, I'M SHIVANG 🙋
-<img src="https://camo.githubusercontent.com/b152eed5b97039e1d10347fb831a961e7851899f212771d751c6fba304f7368c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6e6272347a56623372514b734952336f35642f67697068792e676966" width="500" />
+### HI, I'M SHIVANG 🙋
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif" width="200"/>
+</div>
 
-# ✨ABOUT ME✨
+<br>
+
+**✨ABOUT ME✨**
+
 💻 I am a Computer Science and Engineering Undergraduate at **Madhav Institute of Technology and Science - DU, Gwalior.**
+
 💻 Passionate about **Competitive Programming**, **Web Development**, and **learning new skills**
 
-# 💡MY VALUES💡
-🧠 Embrace a **beginner's mindset** and **curiosity**  
+<br>
+
+**💡MY VALUES💡**
+
+🧠 Embrace a **beginner's mindset** and **curiosity**
+
 😊 Stay **positive** and solution-oriented  
-🎯 **Hardworking** until the goal is achieved  
+
+🎯 **Hardworking** until the goal is achieved 
+
 🌱 Always a **keen observer** and **quick learner**
 
-# 🛠️LANGUAGES & TOOLS🛠️
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-</p>
+<br>
 
-# 🧑‍💻MY STATS🧑‍💻
-![Shivang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangyadav&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangyadav&layout=compact&theme=radical)
+**🛠️LANGUAGES & TOOLS🛠️**
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://www.aalpha.net/wp-content/uploads/2023/11/MERN-Stack-technologies.png" title="MERN Stack" alt="MERN Stack" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
 
-<!--
-**Shivang-7/Shivang-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+**🧑‍💻MY STATS🧑‍💻**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-7&layout=compact&theme=vision-friendly-dark)](https://github.com/Shivang-7/github-readme-stats)
